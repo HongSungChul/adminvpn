@@ -4,17 +4,17 @@
   1. 윈도우 검색란에서 vpn 입력후 VPN 설정 클릭
 <img src="./images/vpn_1.png"  width="600px">
 
-  2. VPN 연결 추가 클릭
+  2. 'VPN 연결 추가' 클릭
 <img src="./images/vpn_2.png"  width="600px">
 
-  3. 그림에 보이는 바와 같이 정보 입력. 
+  3. 그림에 보이는 바와 같이 정보 입력 후 저장 
     
     미리 공유한 키: vpn
     로그인아이디:wikibox 
     로그인페스워드:dnlzlqkrtm 
 <img src="./images/vpn_3.png"  width="600px">
 
-  4. 오른쪽 상단 '어뎁터 옵션 변경' 클릭
+  4. vpn 설정창에서 오른쪽 상단 '어댑터 옵션 변경' 클릭
  <img src="./images/vpn_5.png"  width="600px">
 
   5. 보이는 화면 대로 정보 입력. 중간화면 고급... 클릭
