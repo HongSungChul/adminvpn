@@ -7,7 +7,11 @@
   2. VPN 연결 추가 클릭
 <img src="./images/vpn_2.png"  width="600px">
 
-  3. 그림에 보이는 바와 같이 정보 입력. 마지막 로그인 정보에는 아이디:wikibox 페스워드:dnlzlqkrtm 입력
+  3. 그림에 보이는 바와 같이 정보 입력. 
+    
+    미리 공유한 키: vpn
+    로그인아이디:wikibox 
+    로그인페스워드:dnlzlqkrtm 
 <img src="./images/vpn_3.png"  width="600px">
 
   4. 오른쪽 상단 '어뎁터 옵션 변경' 클릭
