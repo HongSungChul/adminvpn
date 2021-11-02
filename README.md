@@ -1,20 +1,23 @@
 
 # 아파트 관리자 페이지 접속방법
 
-  1. 노트북이나 핸드폰에서 와이파이명이  오투오박스-... 로 시작하는 이름 선택
+  1. 윈도우 검색락에 vpn 입력후 VPN 설정 클릭
 <img src="./images/vpn_1.png"  width="400px">
 
-## 1. 보관함 앞에서 무선 와이파이로 접속
-  
+  2. VPN 연결 추가 클릭
+<img src="./images/vpn_2.png"  width="400px">
 
-        <img src="./images/locker_test1.jpeg"  width="400px">
-  3. 브라이져 주소란에 https://172.24.1.1/manage 접속후 패스워드란 11111111 입력후 SIGN IN 버튼 클릭
-  
-        <img src="./images/locker_test2.jpeg"  width="400px">
-  4. 테스트>락커 메뉴 선택
+  3. 그림에 보이는거와 같이 정보 입력. 마지막 로그인 정보에는 아이디:wikibox 페스워드:dnlzlqkrtm 입력
+<img src="./images/vpn_3.png"  width="400px">
 
-      <img src="./images/locker_test3.jpeg"  width="400px">
-  5. 컨크롤러번호 - 끝 란에 설치된 락컨트럴러 갯수 입력후 열기를 누르면 보관함 문이 열리기 시작합니다.
+  4. 오른쪽 상단 '어뎁터 옵션 변경' 클릭
+ <img src="./images/vpn_5.png"  width="400px">
 
-      <img src="./images/locker_test4.jpeg"  width="400px">
-  
+  5. 보이는 화면 대로 정보 입력
+ <img src="./images/vpn_6.png"  width="400px">
+
+  6. 오른쪽 하단창에 와이파이 아이콘 클릭후 wikibox 선택후 연결 클릭.
+<img src="./images/vpn_4.png"  width="400px">
+
+  7. 관리자페이지에 접속후 >설정>vpn목록 클릭후 항목을 클릭하면 아파트 관리자 페이지에 접속
+<img src="./images/vpn_7.png"  width="400px">
